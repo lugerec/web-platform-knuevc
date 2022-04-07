@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="299px" height="66px" viewBox="0 0 299 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ui/assets/buttons/more_button_active</title>
+    <defs>
+        <rect id="path-1" x="0" y="3.30570284e-30" width="298" height="65.6857143" rx="16.64"></rect>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="littleBIG_homepage" transform="translate(-155.000000, -425.000000)">
+            <g id="Group" transform="translate(155.882854, 425.000000)">
+                <g id="Group-2" transform="translate(0.000000, 0.000000)">
+                    <g id="ui/assets/buttons/landing_more_button">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#B00069" xlink:href="#path-1"></use>
+                        <ellipse id="Oval" fill="#D40067" mask="url(#mask-2)" cx="23.9054396" cy="0.524932571" rx="91.3728223" ry="92.1904762"></ellipse>
+                    </g>
+                    <text id="Prihláste-sa-k-nám" font-family="Museo-700, Museo" font-size="26.8552627" font-weight="500" fill="#F7F6F2">
+                        <tspan x="31.8722143" y="42.4004907">Prihláste sa k nám</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ui/assets/icons/arrow_down</title>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="littleBIG_homepage" transform="translate(-1367.000000, -53.000000)" stroke="#F99500" stroke-width="2.42">
+            <g id="header" transform="translate(60.000000, 27.023140)">
+                <g id="Group-8" transform="translate(1269.000000, 16.976860)">
+                    <polyline id="ui/assets/icons/arrow_down" points="39.5 11 44.0990988 17.2610726 45.1560694 18.7 50.8121387 11"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
